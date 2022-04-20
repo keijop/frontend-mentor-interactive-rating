@@ -74,7 +74,7 @@ const RadioButton = ({ grade, handleChange }) => {
   )
 }
 
-const grades = [1, 2, 3, 4, 5]
+const grades = ['1', '2', '3', '4', '5']
 
 const Form = ({ handleSubmit }) => {
   const [value, setValue] = useState(null)
