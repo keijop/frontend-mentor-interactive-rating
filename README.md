@@ -1,4 +1,4 @@
-# Frontend Mentor - Intro component solution
+# Frontend Mentor - Interactive rating component solution
 
 This is a solution to the [Interactive rating component component challenge on Frontend Mentor](https://github.com/keijop/frontend-mentor-interactive-rating). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
